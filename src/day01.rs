@@ -7,7 +7,7 @@ fn main() {
 
     let calories_per_elf: Vec<u32> = input
         .split("\n\n")
-        .map(|items| items.split("\n").map(|x| x.parse::<u32>().unwrap()).sum::<u32>())
+        .map(|items| items.split("\n").map(|x| -> u32 { x.parse().unwrap() }).sum())
         .sorted()
         .rev()
         .collect();
