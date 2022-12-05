@@ -7,3 +7,4 @@ You can read more about it here:
 - https://philip-weinke.de/2022/12/advent-of-rust-2/
 - https://philip-weinke.de/2022/12/advent-of-rust-3/
 - https://philip-weinke.de/2022/12/advent-of-rust-4/
+- https://philip-weinke.de/2022/12/advent-of-rust-5/
