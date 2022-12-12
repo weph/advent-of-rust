@@ -13,3 +13,4 @@ You can read more about it here:
 - https://philip-weinke.de/2022/12/advent-of-rust-8/
 - https://philip-weinke.de/2022/12/advent-of-rust-9/
 - https://philip-weinke.de/2022/12/advent-of-rust-10/
+- https://philip-weinke.de/2022/12/advent-of-rust-11/
